@@ -1,6 +1,8 @@
-### Hi, I'm Glidian 👋
+### Hi, I'm Chris (Glidian) 👋
 
 I build interfaces I'd actually want to use: small, fast, and a little cinematic.
+
+🟢 **Open to work:** freelance projects, or joining a team that needs someone who designs and builds interfaces and interactive websites. Remote or around DC. [Say hi](mailto:hi@glidian.dev) · [Who's behind this](https://glidian.dev/#work)
 
 <a href="https://glidian.dev"><img src="https://glidian.dev/img/og.png" alt="Glidian: KIDŌ and Home Deck, two home screens for Android TV" width="100%"></a>
 
